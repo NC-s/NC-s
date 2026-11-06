@@ -1,6 +1,6 @@
 # NC-s
 
-我用 Python 和 TypeScript 做互動式儀表板。我喜歡從具體的問題開始：交易系統的延遲在哪一刻升高？紐約的交通事故集中在哪些街區？
+我用 Python 和 TypeScript 做互動式儀表板。下面三個作品可以追蹤交易系統的延遲、比較旅客對不同航空公司的評價，以及探索紐約哪些街區經常發生交通事故。
 
 [English](https://github.com/NC-s/NC-s/blob/profile/README.md)
 

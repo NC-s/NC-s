@@ -1,6 +1,6 @@
 # NC-s
 
-I build interactive dashboards with Python and TypeScript. Two questions behind my projects are how quickly a trading system responds and where crashes cluster on New York City streets.
+I build interactive dashboards with Python and TypeScript. My projects follow latency spikes in a trading system, compare what airline passengers are saying, and map traffic collisions on New York City streets.
 
 [繁體中文](https://github.com/NC-s/NC-s/blob/profile/README.zh-Hant.md)
 
